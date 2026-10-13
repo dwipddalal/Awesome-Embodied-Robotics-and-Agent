@@ -615,6 +615,10 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 
 > ### Benchmark
 
+* [**RoboQuest: Generalist Physical Agents that Search, Inspect and Test**](https://arxiv.org/abs/2610.10388) [**arXiv 2026.10**] [[**Github**](https://github.com/declare-lab/RoboQuest)] [[**Project Page**](https://declare-lab.github.io/RoboQuest/)] [[**Dataset**](https://huggingface.co/datasets/declare-lab/RoboQuest)]<br>
+Liu Renhang, Navonil Majumder, Tej Deep Pala, and Soujanya Poria<br>
+Nanyang Technological University
+
 * [**EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks**](https://arxiv.org/abs/2609.28236) [**arXiv 2026.09**] [[**Github**](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)] [[**Project Page**](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]<br>
 Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng Li, Jintao Chen, Xuhong Zhang, and Wenqi Zhang<br>
 Zhejiang University, Central South University, Institute of Software, Chinese Academy of Sciences
