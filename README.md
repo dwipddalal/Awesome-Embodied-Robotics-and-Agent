@@ -761,6 +761,21 @@ Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Z
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=zchoi/Awesome-Embodied-Agent-with-LLMs&type=Date)](https://star-history.dera.page/#zchoi/Awesome-Embodied-Agent-with-LLMs&Date)-->
 
+
+## Citation
+
+If you find this survey helpful for your research or applications, please consider citing it using the following BibTeX entry:
+
+```
+@article{yu2026survey,
+  title={A survey on efficient vision-language-action models},
+  author={Yu, Zhaoshu and Wang, Bo and Zeng, Pengpeng and Zhang, Haonan and Zhang, Ji and Wang, Zheng and Gao, Lianli and Song, Jingkuan and Sebe, Nicu and Shen, Heng Tao},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
+```
+
 ## Acknowledge 
 Thanks to everyone who has contributed to this repository! Special thanks to those who submitted PRs with solid work—your efforts make this project better and stronger. 🚀✨
 
