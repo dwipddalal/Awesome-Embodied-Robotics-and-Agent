@@ -89,6 +89,9 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Survey
 
+* [**Survey on Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use**](https://engrxiv.org/preprint/view/8364) [**engrXiv 2026.09**] [[**Github**](https://github.com/showlab/Awesome-Multimodal-Embodied-Agent)] [[**Project Page**](https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/)]<br>
+Show Lab, National University of Singapore
+
 * [**LLM Agents: A Survey**](https://www.preprints.org/manuscript/202608.0265/v1) [**Preprints.org 2026.08**] [[**Github**](https://github.com/js-lee-AI/awesome-llm-agent-papers)]<br>
 Jungseob Lee<br>
 Korea University
