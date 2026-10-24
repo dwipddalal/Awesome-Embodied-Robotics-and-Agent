@@ -128,6 +128,10 @@ Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Vision-Language-Action Model
 
+* [**Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment**](https://arxiv.org/abs/2607.13429) [**arXiv 2026**] [[Github](https://github.com/dwipddalal/Anchor-Align)][[Project page](https://anchoralignvla.github.io/)][[HuggingFace🤗](https://huggingface.co/Dwipz/Anchor-Align)]<br>
+Dwip Dalal, Shivansh Patel, Chahit Jain, Jeonghwan Kim, Utkarsh Mishra, Yuchen Song, Alex Baratian, Hyeonjeong Ha, Heng Ji, Svetlana Lazebnik, Unnat Jain<br>
+University of Illinois Urbana-Champaign, Texas A&M University, University of California, Irvine
+
 * [**ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning**](https://arxiv.org/abs/2602.11236) [**arXiv 2026**] [[Github](https://github.com/amap-cvlab/ABot-Manipulation)][[Project page](https://amap-cvlab.github.io/ABot-Manipulation/)]<br>
 AMAP CV Lab, Alibaba Group
 
